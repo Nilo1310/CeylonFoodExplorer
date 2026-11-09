@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home" },
+    { "path": "/categories", "title": "Categories" },
+    { "path": "/food-list", "title": "Food List" },
+    { "path": "/food-details", "title": "Food Details" },
+    { "path": "/search", "title": "Search" },
+    { "path": "/favorites", "title": "Favourites" },
+    { "path": "/categories/:category", "title": "Food List" },
+    { "path": "/foods/:foodId", "title": "Food Details" }
+  ]
+}
